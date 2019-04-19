@@ -1,11 +1,23 @@
 # This file contains the telegram username of all the mantainers and their device
 
-Le Max 2 (x2) - Lucchetto_m
-Redmi Note 5 (whyred) - watheyek
-Redmi 5 Plus (vince) - Rajkale99
-Redmi Note 4 (mido) - GiaSen
-Redmi 4X (santoni) - actuallytauseef
-Redmi 3S/3X (land) - droideronline
-Mi A1 (tissot) - Doom94x
-Moto G5 Plus (potter) - UtsavTheCunt
-ZenFone Max Pro M1 (xt00d) - Sksbss
+Asus ZenFone Max Pro M1 (XT00) - zeuslimitless
+Asus ZenFone Max Pro M2 (X01BD) - erikkkkkk
+
+Leeco Le Max 2 (x2) - Lucchetto_m
+
+Xiaomi Mi A1 (tissot) - Giovix92
+Xiaomi Mi 5s (capricorn) - henmadx
+Xiaomi Mi 6 (sagit) - Verevka86
+Xiaomi Redmi 3S/3X (land) - droideronline
+Xiaomi Redmi 4X (santoni) - actuallytauseef
+Xiaomi Redmi 5 Plus (vince) - SanicM2
+Xiaomi Redmi 6 Pro - n0user
+Xiaomi Redmi Note 3 (kenzo) - Sagarrokade006
+Xiaomi Redmi Note 4 (mido) - GiaSen
+Xiaomi Redmi Note 5 (whyred) - Bladeyy
+
+Motorola Moto G5 Plus (potter) - UtsavTheCunt
+
+Samsung Galaxy Note 3 Snapdragon (hlte) - jprimero15
+
+Zuk Z2 Plus (z2_plus) - rasenkai

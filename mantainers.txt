@@ -1,6 +1,6 @@
 # This file contains the telegram username of all the mantainers and their device
 
-Asus ZenFone Max Pro M1 (XT00) - zeuslimitless
+Asus ZenFone Max Pro M1 (X00T) - zeuslimitless
 Asus ZenFone Max Pro M2 (X01BD) - erikkkkkk
 
 Leeco Le Max 2 (x2) - Lucchetto_m
